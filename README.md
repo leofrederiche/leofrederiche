@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/LeoFrederiche"><img src="https://api.daily.dev/devcards/54c1bc60667b4349bb43c907b1dc426f.png?r=nf0" width="400" alt="Leonardo Camp's Dev Card"/></a>
+
 <!--
 **leofrederiche/leofrederiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
