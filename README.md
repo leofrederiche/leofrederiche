@@ -12,10 +12,10 @@
 - 😄 5 years working with Development and 10 learning about.
 - 🎓 Graduated in ***Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas)* by UNOPAR
 - 📖 I'm currently learning more about **Node.JS** and Back-end Technologies
-- ❤️ Web DevelopmentLover
+- ❤️ Web DevelopmentL over
 - 🏃 Running to speak english. Reading is OK
 - 🎸 Musician playing Guitar, Bass and Drum
-- ❔ Generalist or Specialist? That's the Question! 
+- ❔ Generalist or Specialist? That's the Question!  But I'm Generalist now.
 
 ---
 
